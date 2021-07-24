@@ -1,1 +1,1 @@
-My Resume hosted in github
+My Cover Letter hosted in github
